@@ -1,4 +1,22 @@
 // libraries
 @import "bootstrap";
 
-// include additional styles here
+// "resets"
+body {
+  font-size: $font-size-base;
+}
+
+
+// character analysis section
+.char-analysis {
+
+  ul li {
+    margin: 6px 0px;
+
+    span {
+      font-weight: bold;
+      font-size: $font-size-base * 1.2;
+    }
+  }
+
+}

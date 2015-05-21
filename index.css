@@ -7138,5 +7138,16 @@ button.close {
     display: none !important;
   }
 }
+body {
+  font-size: 14px;
+}
+
+.char-analysis ul li {
+  margin: 6px 0px;
+}
+.char-analysis ul li span {
+  font-weight: bold;
+  font-size: 16.8px;
+}
 
 /*# sourceMappingURL=index.css.map */
