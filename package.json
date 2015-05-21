@@ -8,12 +8,12 @@
     "start": "python -m SimpleHTTPServer 8000"
   },
   "author": "Ryan Gaus <rsg1egoman@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-contrib-uglify": "~0.5.0".
+    "grunt-contrib-uglify": "~0.5.0",
     "grunt-contrib-sass": "^0.9.2",
     "grunt-contrib-watch": "^0.6.1"
   }
