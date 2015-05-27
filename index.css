@@ -7142,6 +7142,10 @@ body {
   font-size: 18px;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .char-analysis ul li {
   margin: 6px 0px;
 }
