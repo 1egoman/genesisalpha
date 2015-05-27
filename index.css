@@ -7146,6 +7146,9 @@ body {
   text-decoration: underline;
 }
 
+.char-analysis {
+  margin-bottom: 64px;
+}
 .char-analysis ul li {
   margin: 6px 0px;
 }
