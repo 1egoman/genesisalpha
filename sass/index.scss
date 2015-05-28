@@ -10,6 +10,12 @@ body {
   text-decoration: underline;
 }
 
+.right-pic {
+  @extend .pull-right;
+  width: 108px;
+  padding-left: 20px;
+}
+
 // character analysis section
 .char-analysis {
   margin-bottom: 64px;
